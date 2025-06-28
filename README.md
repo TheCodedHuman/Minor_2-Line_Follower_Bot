@@ -54,7 +54,7 @@ Line Follower Bot is an autonomous, sensor-based robot designed to detect and fo
    ```
 
 2. **Open the Arduino IDE**
-   - Open the `.ino` file from the `src/` folder.
+   - Open the `.ino` file from the `Code/` folder.
    - Connect your Arduino board.
 
 3. **Configure Board & Port**
