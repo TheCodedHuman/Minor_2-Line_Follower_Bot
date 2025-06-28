@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Working-brightgreen" />
   &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/commit-activity/m/TheCodedHuman/Minor-2_Line-Follower-Bot" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Team-4%20Members-blueviolet" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microcontroller-ATmega328-yellowgreen" />
