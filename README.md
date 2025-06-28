@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Working-brightgreen" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/commits-since/TheCodedHuman/Minor-2_Line-Follower-Bot/latest" />
+  <img src="https://img.shields.io/github/commits-since/TheCodedHuman/Minor_2-Line_Follower_Bot/latest" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Team-4%20Members-blueviolet" />
   &nbsp;&nbsp;
