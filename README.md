@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/banner.png" alt="Project Banner" width="100%">
+  <img src="Media/banner.png" alt="Project Banner" width="100%">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 Line Follower Bot is an autonomous, sensor-based robot designed to detect and follow a defined path using infrared sensors and microcontroller logic. Built as a hardware-software integration project, it demonstrates real-time decision-making through embedded systems.
 
 <p align="center">
-  <img src="media/demo.gif" alt="Demo GIF" width="80%">
+  <img src="Media/demo.gif" alt="Demo GIF" width="80%">
 </p>
 
 ---
@@ -76,7 +76,7 @@ Line Follower Bot is an autonomous, sensor-based robot designed to detect and fo
 # 🔌 Circuit Diagram
 
 <p align="center">
-  <img src="media/circuit.jpg" alt="Circuit Diagram" width="60%">
+  <img src="Media/circuit.jpg" alt="Circuit Diagram" width="60%">
 </p>
 
 ---
@@ -84,7 +84,7 @@ Line Follower Bot is an autonomous, sensor-based robot designed to detect and fo
 # 🖥️ Usage
 
 <p align="center">
-  <img src="media/usage.svg" alt="Usage Preview" width="60%">
+  <img src="Media/usage.svg" alt="Usage Preview" width="60%">
 </p>
 
 ---
@@ -92,11 +92,11 @@ Line Follower Bot is an autonomous, sensor-based robot designed to detect and fo
 # 🧱 Working Model Images
 
 <p align="center">
-  <img src="media/model_side.jpg" alt="Side View" width="60%">
+  <img src="Media/model_side.jpg" alt="Side View" width="60%">
 </p>
 
 <p align="center">
-  <img src="media/model_top.jpg" alt="Top View" width="60%">
+  <img src="Media/model_top.jpg" alt="Top View" width="60%">
 </p>
 
 ---
