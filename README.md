@@ -106,9 +106,9 @@ Line Follower Bot is an autonomous, sensor-based robot designed to detect and fo
 ## 👥 Team Members
 
 - [Abhishek Mahto](https://github.com/Abhishek-mahto-177)  
-- [Moksh Mahawar](https://github.com/TheCodedHuman)  
 - [Shabbir Husain](https://github.com/Shabbir-Husain-2003)  
 - [Shresth Raghuvanshi](https://github.com/Shresthraghu)
+- [Moksh Mahawar](https://github.com/TheCodedHuman)
 
 ---
 
